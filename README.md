@@ -10,10 +10,10 @@ This repository contains two data analysis projects:
 ## Dataset
 
 - Sales Performance Analysis:
-  - Data Source: AdventureWorksDW2022 CRM system
+  - Data Source: AdventureWorksDW2022
 
 - House Price Prediction:
-  - Data Source: Kaggle (specific dataset name or link)
+  - Data Source: Kaggle
 
 
 ## Setup Instructions
